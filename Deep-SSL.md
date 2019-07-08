@@ -6,6 +6,7 @@
 |2016|ICIP|[Mutual Exclusivity Loss for Semi-Supervised Deep Learning](https://arxiv.org/pdf/1606.03141.pdf)|Mehdi Sajjadi, Mehran Javanmardi, Tolga Tasdizen|
 |2016|NIPS|[Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning](https://arxiv.org/abs/1606.04586)|Mehdi Sajjadi, Mehran Javanmardi, Tolga Tasdizen|[Code](https://github.com/m-sajjadi/Semi-Supervised-Learning-SparseConvNet)|
 |2017|ICLR|[Temporal Ensembling for Semi-supervised Learning](https://arxiv.org/pdf/1610.02242.pdf)|Samuli Laine,Timo Aila|[Tensorflow](https://github.com/Goldesel23/Temporal-Ensembling-for-Semi-Supervised-Learning)|
+|2017|ICLR|[Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)|Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar|
 |2017|NIPS|[Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/pdf/1703.01780.pdf)|Antti Tarvainen, Harri Valpola|[Pytorch & Tensorflow](https://github.com/CuriousAI/mean-teacher)|
 |2018|IJCAI|[Tri-net for Semi-Supervised Deep Learning](https://www.ijcai.org/proceedings/2018/0278.pdf)|Dong-Dong Chen, Wei Wang, Wei Gao, Zhi-Hua Zhou||
 |2018|CVPR|[Smooth Neighbors on Teacher Graphs for Semi-supervised Learning](https://arxiv.org/abs/1711.00258)|Yucen Luo, Jun Zhu, Mengxi Li, Yong Ren, Bo Zhang|[Theano](https://github.com/xinmei9322/SNTG)|
